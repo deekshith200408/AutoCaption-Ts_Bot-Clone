@@ -10,7 +10,7 @@ I can automatically add pre-setted caption to the files in channels
 
 I am currently working for a channel if you want to use me, Use my source code and Deploy me
 
-⚜️ Maintained By 👉 @{}
+⚜️ Maintained By 👉 @Deeks_04_8
 """    
 
       HELP_TEXT = """
@@ -26,7 +26,7 @@ I am currently working for a channel if you want to use me, Use my source code a
 
 👉 Forward your files in your channel and I will edit it
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+     © @Deeks_04_8
 """    
               
 
@@ -36,7 +36,7 @@ I am currently working for a channel if you want to use me, Use my source code a
 📕 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
 
-○ ᴍʏ ɴᴀᴍᴇ : [Auto Caption bot](https://t.me/joinchat/KFle6Zyi5H0zNzNl)
+○ ᴍʏ ɴᴀᴍᴇ : Auto Caption bot
 
 ○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ 
 
@@ -46,16 +46,14 @@ I am currently working for a channel if you want to use me, Use my source code a
 
 ○ ᴠᴇʀsɪᴏɴ : 1.0.0
 
-○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ  : [ᴛᴏᴜᴄʜ ᴍᴇ 🤗](https://github.com/Ts-bots/AutoCaption-Ts_Bot-Clone)
 
-○ ᴄʀᴇᴀᴛᴏʀ :  [ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ](https://t.me/trackstudio)
+
  
 __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀɴᴅ ᴛʜɪs ɪs ᴍʏ ғɪʀsᴛ ᴛɪᴍᴇ ɪ ᴀᴍ ɢɪᴠɪɴɢ ᴀɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ᴏғ ʙᴏᴛ ғᴏʀ ᴇᴠᴇʀʏᴏɴᴇ ᴡʜɪᴄʜ ᴡᴀs ᴡʀɪᴛᴇʀ ɪɴ ᴍʏ ᴏᴡɴ ʜᴀɴᴅs, sᴏ ɪғ ᴀɴʏ ʙᴜɢs ғᴇᴇʟ ғʀᴇᴇ ᴛᴏ sᴀʏ
 ɪᴛ ᴍᴀʏ ʙᴇ ɴᴏᴛ ᴛʜᴇ ʙᴇsᴛ ʙᴜᴛ ғᴏʀ ᴍᴇ ɪᴛ ɪs ᴛʜᴇ ʙᴇsᴛ 🥰
 
-ᴛʜᴀɴᴋs ᴛᴏ ᴍʏ ʙᴇʟᴏᴠᴇᴅ ғʀɪᴇɴᴅ [ᴀɴᴏɴʏᴍᴏᴜs](https://t.me/Anoymous_Ns)__
 
-**[©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs](https://t.me/ts_bots)**
+
 
 """
 
@@ -78,9 +76,8 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀ
 
 👉 <b>Hyperlink text</b>
 
-📌 <code>[hyperlink_text](https://t.me/Ts_bots)</code> 
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
+
 
 """
 
@@ -96,7 +93,6 @@ __ᴘʟᴇᴀsᴇ ɴᴏᴛᴇ ɪ ᴀᴍ ɴᴏᴛ ᴀ ᴘʀᴏ ᴄᴏᴅᴇʀ ᴀ
 
 📐 <b>Current Position :</b> {}
 
-<b><a href="https://t.me/Ts_bots">©️ ᴛʀᴀᴄᴋsᴛᴜᴅɪᴏ's ʙᴏᴛs</a></b>
 
 """
 
